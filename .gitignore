@@ -1,0 +1,14 @@
+## EAGLE
+# Backups
+*.s#?
+*.b#?
+*.l#?
+*.b$?
+*.s$?
+*.l$?
+
+# Project
+#eagle.epf
+
+# Locked files
+*.lck
