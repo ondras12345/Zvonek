@@ -1,5 +1,5 @@
 # Zvonek
-A simple circuit for ringing a bell by briefly pressing a light switch.
+A simple circuit for ringing a doorbell by briefly pressing a light switch.
 
 The PCB was designed in EAGLE. It was milled out using a CNC. Because I needed
 the PCB to be as small as possible, I had to place some of the components
@@ -27,9 +27,9 @@ the bell sounds.
 switch     |           |           |   |
        0 --+           +-----------+   +-------
 
-       1   +------+                 +------+
-timer      |      |                 |      |
-       0 --+      +-----------------+      +---
+       1   +------+                +------+
+timer      |      |                |      |
+       0 --+      +----------------+      +----
 
        1                               +---+
 bell                                   |   |
