@@ -33,7 +33,7 @@ timer      |      |                |      |
 
        1                               +---+
 bell                                   |   |
-       0 ------------------------------+   |---
+       0 ------------------------------+   +---
 ```
 
 This circuit should not be used with regular light bulbs, because the brief
